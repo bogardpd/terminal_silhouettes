@@ -14,7 +14,7 @@
    viewBox="0 0 1330.3926 1439.6173"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="BOS.svg"
    inkscape:export-filename="C:\Users\paulb\OneDrive\Projects\Terminal Silhouettes\Silhouettes\png\BOS.png"
    inkscape:export-xdpi="90"
@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="511.98663"
+     inkscape:cx="170.98663"
      inkscape:cy="622.17141"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

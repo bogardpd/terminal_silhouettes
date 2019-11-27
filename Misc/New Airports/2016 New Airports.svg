@@ -14,7 +14,7 @@
    viewBox="0 0 1002 602.00001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="2016 New Airports.svg"
    inkscape:export-filename="C:\Users\paulb\Dropbox\Projects\Terminal Silhouettes\Silhouettes\Misc\2016 New Airports.png"
    inkscape:export-xdpi="89.996498"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="513.54203"
+     inkscape:cx="343.04203"
      inkscape:cy="278.38026"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,148 +66,148 @@
     <g
        id="g4762">
       <text
-         sodipodi:linespacing="125%"
          id="text4426"
          y="398.00003"
          x="172.17191"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="398.00003"
            x="172.17191"
            id="tspan4428"
-           sodipodi:role="line">LHR</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">LHR</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-2"
          y="397.45068"
          x="771.35889"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="397.45068"
            x="771.35889"
            id="tspan4456"
-           sodipodi:role="line">CDG</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">CDG</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-8"
          y="398"
          x="474.34717"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="398"
            x="474.34717"
            id="tspan4466"
-           sodipodi:role="line">KEF</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">KEF</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-3"
          y="197.45071"
          x="67.53566"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="197.45071"
            x="67.53566"
            id="tspan4476"
-           sodipodi:role="line">AMA</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">AMA</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-1"
          y="197.45071"
          x="276.13794"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="197.45071"
            x="276.13794"
            id="tspan4486"
-           sodipodi:role="line">SAT</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">SAT</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-22"
          y="197.45068"
          x="467.7334"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="197.45068"
            x="467.7334"
            id="tspan4496"
-           sodipodi:role="line">MUC</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">MUC</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-7"
          y="197.45068"
          x="670.95239"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="197.45068"
            x="670.95239"
            id="tspan4506"
-           sodipodi:role="line">NUE</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">NUE</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-82"
          y="198"
          x="875.96216"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="198"
            x="875.96216"
            id="tspan4516"
-           sodipodi:role="line">TXL</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">TXL</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-27"
          y="597.45074"
          x="70.567856"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="597.45074"
            x="70.567856"
            id="tspan4526"
-           sodipodi:role="line">ONT</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">ONT</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-4"
          y="597.45074"
          x="265.2395"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="597.45074"
            x="265.2395"
            id="tspan4536"
-           sodipodi:role="line">PWM</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">PWM</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-77"
          y="597.45074"
          x="469.85376"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="597.45074"
            x="469.85376"
            id="tspan4546"
-           sodipodi:role="line">DSM</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">DSM</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-6"
          y="597.45074"
          x="670.50195"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="597.45074"
            x="670.50195"
            id="tspan4556"
-           sodipodi:role="line">BUR</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">BUR</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text4426-5"
          y="597.45074"
          x="870.52393"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="597.45074"
            x="870.52393"
            id="tspan4566"
-           sodipodi:role="line">RDU</tspan></text>
+           sodipodi:role="line"
+           style="font-size:30px;line-height:1.25">RDU</tspan></text>
     </g>
   </g>
   <g

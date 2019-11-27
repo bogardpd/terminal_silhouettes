@@ -14,7 +14,7 @@
    viewBox="0 0 596.35255 536.72279"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="ICT.svg"
    inkscape:export-filename="C:\Users\paulb\Dropbox\Projects\Terminal Silhouettes\Silhouettes\png\ICT.png"
    inkscape:export-xdpi="90"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="280.51952"
+     inkscape:cx="110.01952"
      inkscape:cy="155.77125"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,26 +87,26 @@
      transform="translate(-423.86488,-354.27223)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="956"
        y="182.01819"
-       id="text4160"
-       sodipodi:linespacing="110%"><tspan
+       id="text4160"><tspan
          sodipodi:role="line"
          id="tspan4162"
-         x="956"
-         y="182.01819" /></text>
+         x="970.4043"
+         y="182.01819"
+         style="font-size:125px;line-height:1.10000002"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:125px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="960"
        y="248.01819"
-       id="text4164"
-       sodipodi:linespacing="110%"><tspan
+       id="text4164"><tspan
          sodipodi:role="line"
          id="tspan4166"
-         x="960"
-         y="248.01819" /></text>
+         x="974.4043"
+         y="248.01819"
+         style="font-size:125px;line-height:1.10000002"> </tspan></text>
     <g
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:none;fill-opacity:1;stroke:#60646c;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="text4173"

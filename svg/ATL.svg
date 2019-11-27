@@ -14,7 +14,7 @@
    viewBox="0 0 2729.8323 835.29293"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="ATL.svg"
    inkscape:export-filename="C:\Users\Paul Bogard\Dropbox\Documents\Websites\Flight Log\Images\Terminals\ATL.png"
    inkscape:export-xdpi="89.996498"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50000001"
-     inkscape:cx="1615.6986"
+     inkscape:cx="933.69861"
      inkscape:cy="257.9332"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -39,9 +39,9 @@
      fit-margin-left="25"
      fit-margin-right="25"
      fit-margin-bottom="25"
-     inkscape:window-width="1680"
-     inkscape:window-height="987"
-     inkscape:window-x="1672"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -69,15 +69,15 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="8761.625"
        y="1906.376"
-       id="text4147"
-       sodipodi:linespacing="110%"><tspan
+       id="text4147"><tspan
          sodipodi:role="line"
          id="tspan4149"
-         x="8761.625"
-         y="1906.376" /></text>
+         x="8766.8105"
+         y="1906.376"
+         style="font-size:45px;line-height:1.10000002"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

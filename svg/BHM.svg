@@ -14,7 +14,7 @@
    viewBox="0 0 1001.9342 619.4007"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="BHM.svg"
    inkscape:export-filename="C:\Users\paulb\OneDrive\Projects\Terminal Silhouettes\Silhouettes\png\BHM.png"
    inkscape:export-xdpi="90"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="732.7655"
-     inkscape:cy="252.40966"
+     inkscape:zoom="1"
+     inkscape:cx="480.54669"
+     inkscape:cy="376.72091"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -175,16 +175,24 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Light';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:end;fill:#60646c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Light';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#60646c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="795.58521"
        y="-45.225021"
-       id="text5476"
-       sodipodi:linespacing="125%"><tspan
+       id="text5476"><tspan
          sodipodi:role="line"
-         id="tspan5482">pbogard.com/terminal-silhouettes</tspan><tspan
+         id="tspan5482"
+         x="795.58521"
+         y="-45.225021"
+         style="font-size:12.5px;line-height:1.25">pbogard.com/terminal-silhouettes</tspan><tspan
          sodipodi:role="line"
-         id="tspan5484">26 Jul 2019</tspan><tspan
+         id="tspan5484"
+         x="795.58521"
+         y="-29.600021"
+         style="font-size:12.5px;line-height:1.25">26 Jul 2019</tspan><tspan
          sodipodi:role="line"
-         id="tspan5486"></tspan></text>
+         id="tspan5486"
+         x="798.46606"
+         y="-13.975021"
+         style="font-size:12.5px;line-height:1.25"> </tspan></text>
   </g>
 </svg>

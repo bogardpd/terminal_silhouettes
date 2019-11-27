@@ -14,7 +14,7 @@
    viewBox="0 0 544.22333 452.66865"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="PVD.svg"
    inkscape:export-filename="C:\Users\paulb\Dropbox\Projects\Terminal Silhouettes\Silhouettes\png-flight-historian\PVD.png"
    inkscape:export-xdpi="90"
@@ -31,7 +31,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="391.31019"
+     inkscape:cx="270.74849"
      inkscape:cy="173.08922"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -54,123 +54,153 @@
     <sodipodi:guide
        position="-1131.2565,-171.4898"
        orientation="1,0"
-       id="guide4150" />
+       id="guide4150"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1921.6007,-284.34694"
        orientation="1,0"
-       id="guide4152" />
+       id="guide4152"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1541.6007,-94.346933"
        orientation="0,1"
-       id="guide4154" />
+       id="guide4154"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1431.6007,65.653068"
        orientation="0,1"
-       id="guide4156" />
+       id="guide4156"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-392.68509,178.51022"
        orientation="1,0"
-       id="guide4160" />
+       id="guide4160"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="597.31492,248.51022"
        orientation="1,0"
-       id="guide4162" />
+       id="guide4162"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="727.67207,439.58165"
        orientation="0,1"
-       id="guide4164" />
+       id="guide4164"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="30.172059,47.795927"
        orientation="0,1"
-       id="guide4169" />
+       id="guide4169"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="102.31472,279.93871"
        orientation="1,0"
-       id="guide4177" />
+       id="guide4177"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-1025.5422,-210.06123"
        orientation="1,0"
-       id="guide4181" />
+       id="guide4181"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-582.95915,77.460998"
        orientation="0,1"
-       id="guide4183" />
+       id="guide4183"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1813.6279,146.15137"
        orientation="1,0"
-       id="guide4185" />
+       id="guide4185"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-470.32715,-124.56953"
        orientation="0,1"
-       id="guide4199" />
+       id="guide4199"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="552.31492,526.36737"
        orientation="0,1"
-       id="guide4337" />
+       id="guide4337"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3.7434895,614.9388"
        orientation="1,0"
-       id="guide4339" />
+       id="guide4339"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="203.74348,624.9388"
        orientation="1,0"
-       id="guide4341" />
+       id="guide4341"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-88.39937,602.08165"
        orientation="1,0"
-       id="guide4348" />
+       id="guide4348"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="295.88635,539.9388"
        orientation="1,0"
-       id="guide4361" />
+       id="guide4361"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="399.45778,581.36737"
        orientation="1,0"
-       id="guide4363" />
+       id="guide4363"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-200.61639,620.418"
        orientation="1,0"
-       id="guide4388" />
+       id="guide4388"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-225.8702,638.09567"
        orientation="1,0"
-       id="guide4390" />
+       id="guide4390"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="541.24349,559.22451"
        orientation="0,1"
-       id="guide4395" />
+       id="guide4395"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-317.79408,693.14899"
        orientation="1,0"
-       id="guide4403" />
+       id="guide4403"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-373.35247,685.57284"
        orientation="1,0"
-       id="guide4405" />
+       id="guide4405"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-255.16463,934.57542"
        orientation="0,1"
-       id="guide4407" />
+       id="guide4407"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-255.16463,903.76582"
        orientation="0,1"
-       id="guide4409" />
+       id="guide4409"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-427.39564,823.45862"
        orientation="1,0"
-       id="guide4411" />
+       id="guide4411"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-310.7208,888.51022"
        orientation="1,0"
-       id="guide4413" />
+       id="guide4413"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="556.95777,603.86737"
        orientation="1,0"
-       id="guide4421" />
+       id="guide4421"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="822.31492,576.01023"
        orientation="1,0"
-       id="guide4423" />
+       id="guide4423"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">

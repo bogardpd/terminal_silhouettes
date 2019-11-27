@@ -14,7 +14,7 @@
    viewBox="0 0 460.40659 214.82222"
    id="svg5824"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="SPS.svg"
    inkscape:export-filename="C:\Users\paulb\Dropbox\Projects\Terminal Silhouettes\Silhouettes\png\SPS.png"
    inkscape:export-xdpi="90"
@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="105.19577"
+     inkscape:cx="-65.30423"
      inkscape:cy="244.75045"
      inkscape:document-units="px"
      inkscape:current-layer="layer15"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:description>Terminal silhouette of SPS (Wichita Falls)</dc:description>
       </cc:Work>
     </rdf:RDF>

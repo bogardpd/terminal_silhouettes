@@ -14,7 +14,7 @@
    viewBox="0 0 1775.9689 540.13502"
    id="svg4795"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="MIA D DTW A Comparison.svg"
    inkscape:export-filename="C:\Users\paulb\Desktop\MIA DTW Comparison.png"
    inkscape:export-xdpi="51.889999"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="917.94341"
+     inkscape:cx="573.48139"
      inkscape:cy="67.980319"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -78,53 +78,53 @@
        id="g6045"
        transform="translate(0,1.5309853)">
       <text
-         sodipodi:linespacing="125%"
          id="text5965-8"
          y="792.45966"
          x="-453.21533"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#800080;fill-opacity:0.50196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#800080;fill-opacity:0.50196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="792.45966"
            x="-453.21533"
            id="tspan5987"
-           sodipodi:role="line">MIA</tspan></text>
+           sodipodi:role="line"
+           style="font-size:125px;line-height:1.25">MIA</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text5965-8-9"
          y="763.45453"
          x="-779.1333"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#800080;fill-opacity:0.50196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#800080;fill-opacity:0.50196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="763.45453"
            x="-779.1333"
            id="tspan6007"
-           sodipodi:role="line">CONCOURSE D</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">CONCOURSE D</tspan></text>
     </g>
     <g
        id="g6055"
        transform="translate(0,379.97376)">
       <text
-         sodipodi:linespacing="125%"
          id="text5965"
          y="415.54276"
          x="193.38344"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff6600;fill-opacity:0.50196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff6600;fill-opacity:0.50196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="415.54276"
            x="193.38344"
            id="tspan5967"
-           sodipodi:role="line">DTW</tspan></text>
+           sodipodi:role="line"
+           style="font-size:125px;line-height:1.25">DTW</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text5965-8-9-4"
          y="385.77469"
          x="510.68326"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff6600;fill-opacity:0.50196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ff6600;fill-opacity:0.50196078;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="385.77469"
            x="510.68326"
            id="tspan6027"
-           sodipodi:role="line">CONCOURSE A</tspan></text>
+           sodipodi:role="line"
+           style="font-size:40px;line-height:1.25">CONCOURSE A</tspan></text>
     </g>
   </g>
 </svg>

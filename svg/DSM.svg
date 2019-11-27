@@ -14,7 +14,7 @@
    viewBox="0 0 541.06122 362.43585"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="DSM.svg"
    inkscape:export-filename="C:\Users\paulb\Dropbox\Projects\Terminal Silhouettes\Silhouettes\png\DSM.png"
    inkscape:export-xdpi="89.996498"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="83.584097"
+     inkscape:cx="-86.915903"
      inkscape:cy="112.757"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:description>Terminal silhouette of DSM (Des Moines)</dc:description>
       </cc:Work>
     </rdf:RDF>

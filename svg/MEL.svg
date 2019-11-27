@@ -14,7 +14,7 @@
    viewBox="0 0 982.05853 1116.4774"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="MEL.svg"
    inkscape:export-filename="C:\Users\paulb\Dropbox\Projects\Terminal Silhouettes\Silhouettes\png\MEL.png"
    inkscape:export-xdpi="90"
@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="351.91096"
+     inkscape:cx="110.78755"
      inkscape:cy="480.99131"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>Paul Bogard</dc:title>
@@ -85,15 +85,15 @@
      transform="translate(0.78391886,0.73095677)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.00000381px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="615.99994"
        y="508.96252"
-       id="text4617"
-       sodipodi:linespacing="125%"><tspan
+       id="text4617"><tspan
          sodipodi:role="line"
          id="tspan4621"
          x="615.99994"
-         y="508.96252"></tspan></text>
+         y="508.96252"
+         style="font-size:45.00000381px;line-height:1.25"> </tspan></text>
     <g
        id="g4655"
        transform="translate(11.31371,26.870061)">

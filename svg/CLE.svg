@@ -14,7 +14,7 @@
    viewBox="0 0 532.59607 1049.1722"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="CLE.svg"
    inkscape:export-filename="C:\Users\paulb\Dropbox\Projects\Terminal Silhouettes\Silhouettes\png\CLE.png"
    inkscape:export-xdpi="90"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="118.63611"
+     inkscape:cx="-51.86389"
      inkscape:cy="712.75531"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:description>Terminal silhouette of CLE (Cleveland)</dc:description>
       </cc:Work>
     </rdf:RDF>

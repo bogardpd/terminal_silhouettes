@@ -14,7 +14,7 @@
    viewBox="0 0 2724.6504 1546.7442"
    id="svg4163"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="C:\Users\paulb\Desktop\DFW-NRT.png"
    inkscape:export-xdpi="36.5"
    inkscape:export-ydpi="36.5"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1400.7769"
+     inkscape:cx="913.63404"
      inkscape:cy="812.48484"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -51,19 +51,23 @@
     <sodipodi:guide
        position="2353.086,1446.7442"
        orientation="0,1"
-       id="guide4750" />
+       id="guide4750"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="258.31422,349.17628"
        orientation="0,1"
-       id="guide4752" />
+       id="guide4752"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="100.00001,815.39406"
        orientation="1,0"
-       id="guide4754" />
+       id="guide4754"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2624.5205,764.72656"
        orientation="1,0"
-       id="guide4756" />
+       id="guide4756"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4168">
@@ -73,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,47 +98,47 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:125px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d36a6a;fill-opacity:0.49803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d36a6a;fill-opacity:0.49803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-1172.7329"
        y="1413.025"
-       id="text4758"
-       sodipodi:linespacing="125%"><tspan
+       id="text4758"><tspan
          sodipodi:role="line"
          id="tspan4760"
          x="-1172.7329"
-         y="1413.025">DFW</tspan></text>
+         y="1413.025"
+         style="font-size:125px;line-height:1.25">DFW</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d36a6a;fill-opacity:0.49803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d36a6a;fill-opacity:0.49803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-875.00244"
        y="1413.025"
-       id="text4762"
-       sodipodi:linespacing="125%"><tspan
+       id="text4762"><tspan
          sodipodi:role="line"
          id="tspan4764"
          x="-875.00244"
-         y="1413.025">Dallas/Fort Worth</tspan></text>
+         y="1413.025"
+         style="font-size:45px;line-height:1.25">Dallas/Fort Worth</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:125px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a95485;fill-opacity:0.49803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a95485;fill-opacity:0.49803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1132.6986"
        y="1413.025"
-       id="text4766"
-       sodipodi:linespacing="125%"><tspan
+       id="text4766"><tspan
          sodipodi:role="line"
          id="tspan4768"
          x="1132.6986"
-         y="1413.025">NRT</tspan></text>
+         y="1413.025"
+         style="font-size:125px;line-height:1.25">NRT</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a95485;fill-opacity:0.49803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a95485;fill-opacity:0.49803922;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="816.37531"
        y="1413.025"
-       id="text4770"
-       sodipodi:linespacing="125%"><tspan
+       id="text4770"><tspan
          sodipodi:role="line"
          id="tspan4774"
          x="816.37531"
-         y="1413.025">Tokyo–Narita</tspan></text>
+         y="1413.025"
+         style="font-size:45px;line-height:1.25">Tokyo–Narita</tspan></text>
   </g>
 </svg>

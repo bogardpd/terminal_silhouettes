@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="ARN.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.1"
    id="svg2"
    viewBox="0 0 1186.9798 1529.0636"
@@ -39,7 +39,7 @@
      inkscape:current-layer="layer4"
      inkscape:document-units="px"
      inkscape:cy="709.91795"
-     inkscape:cx="254.54959"
+     inkscape:cx="-427.45041"
      inkscape:zoom="0.5"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -52,99 +52,118 @@
     <sodipodi:guide
        position="1059.545,419.91204"
        orientation="0.8201493,-0.57214956"
-       id="guide4436" />
+       id="guide4436"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1059.5464,419.91564"
        orientation="0.69745556,-0.71662804"
-       id="guide4438" />
+       id="guide4438"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1059.5464,419.91564"
        orientation="0.90679971,-0.42156172"
-       id="guide4442" />
+       id="guide4442"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1059.5466,419.91564"
        orientation="0.86291359,-0.50535149"
        id="guide4446"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-142.59772,-167.10392"
        orientation="1,0"
-       id="guide4487" />
+       id="guide4487"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="43.473668,-281.38963"
        orientation="1,0"
-       id="guide4489" />
+       id="guide4489"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="80.973667,-285.67534"
        orientation="1,0"
-       id="guide4496" />
+       id="guide4496"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="843.20963,-550.57721"
        orientation="0.96685024,-0.25534411"
-       id="guide4609" />
+       id="guide4609"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1059.5528,419.92284"
        orientation="0.94931033,-0.31434042"
        id="guide4611"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1059.5501,419.91914"
        orientation="0.76238604,-0.64712249"
        id="guide4625"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1059.5343,419.87324"
        orientation="0.62715787,-0.77889217"
-       id="guide4703" />
+       id="guide4703"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="806.97043,-507.01439"
        orientation="0.96685013,-0.25534451"
        id="guide4705"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="733.77253,-710.18202"
        orientation="0,1"
-       id="guide4707" />
+       id="guide4707"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="740.30033,-477.71996"
        orientation="-0.97357339,-0.22837439"
        id="guide4720"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="773.13023,-485.29611"
        orientation="0.94931033,-0.31434042"
        id="guide4724"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="836.53413,-543.89881"
        orientation="0.25534451,0.96685013"
        id="guide4730"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="874.90313,-523.17683"
        orientation="0.25534451,0.96685013"
        id="guide4751"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="779.57003,-502.21616"
        orientation="0.31434042,0.94931033"
        id="guide4759"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="745.22483,-478.35131"
        orientation="-0.22836786,0.97357492"
        id="guide4764"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <title
      id="title4147">ARN</title>

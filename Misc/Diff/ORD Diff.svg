@@ -14,7 +14,7 @@
    viewBox="0 0 2197.9251 1053.8258"
    id="svg4596"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="ORD Diff.svg"
    inkscape:export-filename="C:\Users\paulb\Dropbox\Projects\Terminal Silhouettes\Silhouettes\Misc\ORD Diff.png"
    inkscape:export-xdpi="89.996498"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="1161.3867"
+     inkscape:cx="816.92468"
      inkscape:cy="594.04106"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -119,36 +119,36 @@
      inkscape:label="Text">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="705.39203"
        y="91.810341"
-       id="text5225"
-       sodipodi:linespacing="125%"><tspan
+       id="text5225"><tspan
          sodipodi:role="line"
          id="tspan5227"
          x="705.39203"
-         y="91.810341">Changes in ORD Terminal Silhouette</tspan></text>
+         y="91.810341"
+         style="font-size:90px;line-height:1.25">Changes in ORD Terminal Silhouette</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5fd38d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5fd38d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2083.7148"
        y="288.38248"
-       id="text5229"
-       sodipodi:linespacing="125%"><tspan
+       id="text5229"><tspan
          sodipodi:role="line"
          id="tspan5231"
          x="2083.7148"
-         y="288.38248">New</tspan></text>
+         y="288.38248"
+         style="font-size:45px;line-height:1.25">New</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2015.9072"
        y="231.14534"
-       id="text5233"
-       sodipodi:linespacing="125%"><tspan
+       id="text5233"><tspan
          sodipodi:role="line"
          id="tspan5235"
          x="2015.9072"
-         y="231.14534">Deleted</tspan></text>
+         y="231.14534"
+         style="font-size:45px;line-height:1.25">Deleted</tspan></text>
   </g>
 </svg>

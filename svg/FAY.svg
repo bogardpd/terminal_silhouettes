@@ -14,7 +14,7 @@
    viewBox="0 0 789.09619 393.07142"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="FAY.svg"
    inkscape:export-filename="C:\Users\paulb\OneDrive\Projects\Terminal Silhouettes\Silhouettes\png\FAY.png"
    inkscape:export-xdpi="89.996498"
@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="595.78732"
+     inkscape:cx="425.28732"
      inkscape:cy="164.37112"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

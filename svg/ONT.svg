@@ -14,7 +14,7 @@
    viewBox="0 0 1414.3378 238.64781"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="ONT.svg"
    inkscape:export-filename="C:\Users\paulb\Dropbox\Projects\Terminal Silhouettes\Silhouettes\png\ONT.png"
    inkscape:export-xdpi="90"
@@ -29,7 +29,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="760.17629"
+     inkscape:cx="519.05288"
      inkscape:cy="-135.86703"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
@@ -49,47 +49,58 @@
     <sodipodi:guide
        position="-1685.3499,53.162483"
        orientation="-0.00051450818,0.99999987"
-       id="guide4148" />
+       id="guide4148"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3103.7835,-0.3756063"
        orientation="0.00062124639,-0.99999981"
-       id="guide4150" />
+       id="guide4150"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-1380.7889,-48.862926"
        orientation="-0.00084144661,0.99999965"
-       id="guide4152" />
+       id="guide4152"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2745.1793,156.19804"
        orientation="0.00058644249,-0.99999983"
-       id="guide4154" />
+       id="guide4154"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-1473.0404,95.959273"
        orientation="0.99999075,0.0043010415"
-       id="guide4156" />
+       id="guide4156"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-817.54036,77.459273"
        orientation="0.99996817,0.0079785887"
-       id="guide4158" />
+       id="guide4158"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-233.29035,103.20927"
        orientation="-0.00039473699,0.99999992"
-       id="guide4162" />
+       id="guide4162"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1605.2098,97.959273"
        orientation="0.00053120823,-0.99999986"
-       id="guide4164" />
+       id="guide4164"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="-1214.7903,-32.540726"
        orientation="-0.00039777252,0.99999992"
-       id="guide4166" />
+       id="guide4166"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2152.4598,87.959273"
        orientation="1,0"
-       id="guide4168" />
+       id="guide4168"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2808.4598,66.459273"
        orientation="1,0"
-       id="guide4170" />
+       id="guide4170"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -99,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

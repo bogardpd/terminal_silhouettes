@@ -14,7 +14,7 @@
    viewBox="0 0 1000.809 611.38398"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="ATL LAX ORD Size Comparision.svg"
    inkscape:export-filename="C:\Users\Paul Bogard\Dropbox\Documents\Websites\Flight Log\Images\Terminals\Misc\Size Comparison ATL LAX ORD.png"
    inkscape:export-xdpi="89.996498"
@@ -29,14 +29,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="579.53706"
+     inkscape:cx="409.03706"
      inkscape:cy="281.85486"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="987"
-     inkscape:window-x="1672"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,109 +95,109 @@
          id="g4369">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:42.59999847px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Ultra-Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff3f3f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Ultra-Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff3f3f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-650.89575"
            y="537.81543"
-           id="text4156"
-           sodipodi:linespacing="110%"><tspan
+           id="text4156"><tspan
              sodipodi:role="line"
              id="tspan4158"
              x="-650.89575"
-             y="537.81543">ATL</tspan></text>
+             y="537.81543"
+             style="font-size:42.59999847px;line-height:1.10000002">ATL</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.39999962px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff3f3f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff3f3f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-556.28192"
            y="537.81543"
-           id="text4160"
-           sodipodi:linespacing="110%"><tspan
+           id="text4160"><tspan
              sodipodi:role="line"
              id="tspan4162"
              x="-556.28192"
-             y="537.81543">Atlanta</tspan></text>
+             y="537.81543"
+             style="font-size:28.39999962px;line-height:1.10000002">Atlanta</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.65000057px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7e0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7e0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-613.85187"
            y="553.13971"
-           id="text4164"
-           sodipodi:linespacing="110%"><tspan
+           id="text4164"><tspan
              sodipodi:role="line"
              id="tspan4363"
              x="-613.85187"
-             y="553.13971">96.1 MILLION PASSENGERS</tspan></text>
+             y="553.13971"
+             style="font-size:10.65000057px;line-height:1.10000002">96.1 MILLION PASSENGERS</tspan></text>
       </g>
       <g
          id="g4377">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:42.59999847px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Ultra-Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffa73f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Ultra-Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffa73f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-435.85425"
            y="537.81543"
-           id="text4178"
-           sodipodi:linespacing="110%"><tspan
+           id="text4178"><tspan
              sodipodi:role="line"
              id="tspan4180"
              x="-435.85425"
-             y="537.81543">LAX</tspan></text>
+             y="537.81543"
+             style="font-size:42.59999847px;line-height:1.10000002">LAX</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.39999962px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffa73f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffa73f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-310.802"
            y="537.81543"
-           id="text4182"
-           sodipodi:linespacing="110%"><tspan
+           id="text4182"><tspan
              sodipodi:role="line"
              id="tspan4184"
              x="-310.802"
-             y="537.81543">Los Angeles</tspan></text>
+             y="537.81543"
+             style="font-size:28.39999962px;line-height:1.10000002">Los Angeles</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.65000057px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7e4400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7e4400;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-398.35522"
            y="553.13971"
-           id="text4186"
-           sodipodi:linespacing="110%"><tspan
+           id="text4186"><tspan
              sodipodi:role="line"
              id="tspan4365"
              x="-398.35522"
-             y="553.13971">70.7 MILLION PASSENGERS</tspan></text>
+             y="553.13971"
+             style="font-size:10.65000057px;line-height:1.10000002">70.7 MILLION PASSENGERS</tspan></text>
       </g>
       <g
          id="g4385">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:42.59999847px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Ultra-Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#453fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Ultra-Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#453fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-152.08984"
            y="537.81543"
-           id="text4200"
-           sodipodi:linespacing="110%"><tspan
+           id="text4200"><tspan
              sodipodi:role="line"
              id="tspan4202"
              x="-152.08984"
-             y="537.81543">ORD</tspan></text>
+             y="537.81543"
+             style="font-size:42.59999847px;line-height:1.10000002">ORD</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.39999962px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#453fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#453fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="3.8344712"
            y="537.81543"
-           id="text4204"
-           sodipodi:linespacing="110%"><tspan
+           id="text4204"><tspan
              sodipodi:role="line"
              id="tspan4216"
-             x="3.8344712"
-             y="537.81543">Chicago–O’Hare</tspan></text>
+             x="3.8344681"
+             y="537.81543"
+             style="font-size:28.39999962px;line-height:1.10000002">Chicago–O’Hare</tspan></text>
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.65000057px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#04007e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#04007e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            x="-121.09521"
            y="553.13971"
-           id="text4208"
-           sodipodi:linespacing="110%"><tspan
+           id="text4208"><tspan
              sodipodi:role="line"
              id="tspan4367"
-             x="-121.09522"
-             y="553.13971">70.0 MILLION PASSENGERS</tspan></text>
+             x="-121.09521"
+             y="553.13971"
+             style="font-size:10.65000057px;line-height:1.10000002">70.0 MILLION PASSENGERS</tspan></text>
       </g>
     </g>
   </g>
@@ -217,16 +217,16 @@
          id="rect4284"
          style="opacity:1;fill:#000000;fill-opacity:0.24705882;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078" />
       <text
-         sodipodi:linespacing="110%"
          id="text4286"
          y="45"
          x="1114.4347"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            y="45"
            x="1114.4347"
            id="tspan4288"
-           sodipodi:role="line">1 km</tspan></text>
+           sodipodi:role="line"
+           style="font-size:15px;line-height:1.10000002">1 km</tspan></text>
     </g>
   </g>
   <g
@@ -236,23 +236,25 @@
      transform="translate(-194.17926,55.229443)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:42.59999847px;line-height:110.00000238%;font-family:Overpass;-inkscape-font-specification:'Overpass, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#5f5f5f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#5f5f5f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="694.41095"
        y="0.52775651"
-       id="text4299"
-       sodipodi:linespacing="110%"><tspan
+       id="text4299"><tspan
          sodipodi:role="line"
          id="tspan4305"
          x="694.41095"
-         y="0.52775651">Size Comparison of the Busiest US Airports</tspan></text>
+         y="0.52775651"
+         style="font-size:42.59999847px;line-height:1.10000002">Size Comparison of the Busiest US Airports</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.19999957px;line-height:110%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="694.36871"
        y="25.14279"
-       id="text4307"
-       sodipodi:linespacing="110%"><tspan
+       id="text4307"><tspan
          sodipodi:role="line"
-         id="tspan4420">BASED ON 2014 TOTAL COMMERCIAL PASSENGERS</tspan></text>
+         id="tspan4420"
+         x="694.36871"
+         y="25.14279"
+         style="font-size:14.19999981px;line-height:1.10000002">BASED ON 2014 TOTAL COMMERCIAL PASSENGERS</tspan></text>
   </g>
 </svg>

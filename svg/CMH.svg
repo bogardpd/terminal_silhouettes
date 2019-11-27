@@ -13,7 +13,7 @@
    height="462.43082"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="CMH.svg"
    inkscape:export-filename="C:\Users\Paul Bogard\Dropbox\Documents\Websites\Flight Log\Images\Terminals\CMH.png"
    inkscape:export-xdpi="90"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="358.1979"
+     inkscape:cx="187.6979"
      inkscape:cy="227.67802"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
@@ -67,16 +67,16 @@
        sodipodi:nodetypes="cscccscccscccscccscccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccscccsccccscccscccccccccccccccccccccccccccccscccscccscccscccscccsc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72px;line-height:125%;font-family:Overpass;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="452.54834"
        y="33.29055"
        id="text2983"
-       sodipodi:linespacing="125%"
        transform="translate(373.34189,248.28101)"><tspan
          sodipodi:role="line"
          id="tspan2985"
          x="452.54834"
-         y="33.29055" /></text>
+         y="33.29055"
+         style="font-size:72px;line-height:1.25"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

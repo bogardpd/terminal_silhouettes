@@ -14,7 +14,7 @@
    viewBox="0 0 2347.9311 1200.1976"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="ORD.svg"
    inkscape:export-filename="C:\Users\paulb\OneDrive\Projects\Terminal Silhouettes\Silhouettes\png-portfolio\ORD.png"
    inkscape:export-xdpi="89.996498"
@@ -27,7 +27,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1045.0957"
+     inkscape:cx="80.602044"
      inkscape:cy="342.55373"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -57,85 +57,101 @@
     <sodipodi:guide
        position="2301.0981,723.59798"
        orientation="0,1"
-       id="guide4150" />
+       id="guide4150"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2308.303,1078.3912"
        orientation="1,0"
-       id="guide4162" />
+       id="guide4162"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2330.5981,857.30628"
        orientation="0,1"
-       id="guide4182" />
+       id="guide4182"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2044.0981,1039.8063"
        orientation="1,0"
-       id="guide4190" />
+       id="guide4190"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2572.5079,1094.2373"
        orientation="1,0"
-       id="guide4192" />
+       id="guide4192"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1668.5981,1259.6812"
        orientation="-0.35836795,-0.93358043"
        id="guide4281"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1694.5988,1261.4869"
        orientation="-0.35836795,-0.93358043"
        id="guide4283"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1672.9675,1236.9599"
        orientation="-0.93358043,0.35836795"
        id="guide4285"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1754.6383,1215.9235"
        orientation="-0.35836795,-0.93358043"
        id="guide4289"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1688.0888,1258.0926"
        orientation="-0.35836795,-0.93358043"
        id="guide4291"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1620.0981,1259.5562"
        orientation="-0.93358043,0.35836795"
        id="guide4293"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1691.5438,1248.8335"
        orientation="-0.93690004,-0.34959737"
-       id="guide4324" />
+       id="guide4324"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="1679.3257,1253.5236"
        orientation="-0.4623258,0.88671013"
-       id="guide4326" />
+       id="guide4326"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2599.5981,1133.3061"
        orientation="-0.70710678,0.70710678"
        id="guide4410"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="3031.5982,1522.5562"
        orientation="0.70710678,0.70710678"
        id="guide4432"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="2656.1995,1164.6582"
        orientation="0.70710678,0.70710678"
        id="guide4444"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <title
      id="title4148">Terminal Silhouettes: ORD</title>

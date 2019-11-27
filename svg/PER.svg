@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="PER.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    version="1.1"
    id="svg2"
    viewBox="0 0 1619.2454 1579.2648"
@@ -39,7 +39,7 @@
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
      inkscape:cy="716.01195"
-     inkscape:cx="571.58786"
+     inkscape:cx="230.58786"
      inkscape:zoom="0.5"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:description>Terminal silhouette of PER (Perth)</dc:description>
         <dc:creator>
           <cc:Agent>
